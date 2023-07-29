@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Rich's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfiorella)](https://github.com/rfiorella/github-readme-stats)
+
 <!--
 **rfiorella/rfiorella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
